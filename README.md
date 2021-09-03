@@ -1,6 +1,7 @@
 # Social-Media-Events-Platform
 
 ## Technologies used: 
-## React & .NET Core
+- React
+- .NET Core
 
 
