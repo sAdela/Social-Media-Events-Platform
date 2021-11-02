@@ -176,3 +176,5 @@ C:\Projects\Reactivities\API\obj\Debug\net5.0\API.pdb
 C:\Projects\Reactivities\API\obj\Debug\net5.0\API.genruntimeconfig.cache
 C:\Projects\Reactivities\API\bin\Debug\net5.0\MediatR.dll
 C:\Projects\Reactivities\API\bin\Debug\net5.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Projects\Reactivities\API\bin\Debug\net5.0\AutoMapper.dll
+C:\Projects\Reactivities\API\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
