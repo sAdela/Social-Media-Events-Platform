@@ -2,6 +2,7 @@
 
 ## Technologies used: 
 - React
-- .NET Core
-
+- .NET Core (implemented Mediator and CQRS pattern)
+- MobX
+- Axios
 
