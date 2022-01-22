@@ -1,11 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "JyLbWwjP2Hgs5Dm2YYLAyE/ZQBnWRKxo7CfmE6QES77G2UBtK1d6jIh6XZd+R44bJnWYuWdb1TLE6ULaq5yRWg==",
+  "dgSpecHash": "qULjR8j6cMaXqjaKh2fHTFdK9uGO7by8+TSbs6zujAGhyc/TEBuzhaIpkVW9aLOpk3nSxzSy/AyA2f8sdxTeyQ==",
   "success": true,
   "projectFilePath": "C:\\Projects\\Social-Media-Events-Platform\\Application\\Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ASUS\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\fluentvalidation\\9.3.0\\fluentvalidation.9.3.0.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\fluentvalidation.aspnetcore\\9.3.0\\fluentvalidation.aspnetcore.9.3.0.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\9.3.0\\fluentvalidation.dependencyinjectionextensions.9.3.0.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\9.0.0\\mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",

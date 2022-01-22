@@ -270,3 +270,6 @@ C:\Projects\Social-Media-Events-Platform\API\obj\Debug\net5.0\API.dll
 C:\Projects\Social-Media-Events-Platform\API\obj\Debug\net5.0\ref\API.dll
 C:\Projects\Social-Media-Events-Platform\API\obj\Debug\net5.0\API.pdb
 C:\Projects\Social-Media-Events-Platform\API\obj\Debug\net5.0\API.genruntimeconfig.cache
+C:\Projects\Social-Media-Events-Platform\API\bin\Debug\net5.0\FluentValidation.dll
+C:\Projects\Social-Media-Events-Platform\API\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
+C:\Projects\Social-Media-Events-Platform\API\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
